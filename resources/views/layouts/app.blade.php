@@ -28,6 +28,7 @@
         function __(title, select) {
             return title;
         }
+        
     </script>
 
     <script src="{{ $assets_url }}/tinymce/tinymce.min.js?{{ $version }}"></script>
